@@ -30,7 +30,7 @@ public class Exe4_Matriz {
         System.out.println("Matriz: ");
         for(int[] linha : M){
             for(int coluna : linha){
-                System.out.print(coluna + " ");
+                System.out.print(coluna + "     ");
             }
             System.out.println();
         }
